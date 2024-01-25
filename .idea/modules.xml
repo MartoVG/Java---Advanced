@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FunctionalProgramming/FunctionalProgramming.iml" filepath="$PROJECT_DIR$/FunctionalProgramming/FunctionalProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiDimArrays/MultiDimArrays.iml" filepath="$PROJECT_DIR$/MultiDimArrays/MultiDimArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SetsandMaps/SetsandMaps.iml" filepath="$PROJECT_DIR$/SetsandMaps/SetsandMaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackAndQueues.iml" filepath="$PROJECT_DIR$/StackAndQueues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamsFilesandDirectories/StreamsFilesandDirectories.iml" filepath="$PROJECT_DIR$/StreamsFilesandDirectories/StreamsFilesandDirectories.iml" />
+    </modules>
+  </component>
+</project>
